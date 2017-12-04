@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>iso-icons/iso_grs_7000_4_0238.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0239.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0245.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0248.dat</file>
+        <file>iso-icons/iso_grs_7000_4_0249.dat</file>
+        <file>iso-icons/iso_grs_7000_4_1434A.dat</file>
+        <file>OverlayContainer.qml</file>
+        <file>OverlayContainerForm.ui.qml</file>
+        <file>icons/QML_mask.jpg</file>
+        <file>icons/icon_turnsignal_off.png</file>
+        <file>icons/icon_turnsignal_on.png</file>
+    </qresource>
+</RCC>

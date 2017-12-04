@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="main2D.qml">qml/main2D.qml</file>
+        <file alias="SimuData.qml">qml/SimuData.qml</file>
+        <file alias="FpsDisplay.qml">qml/FpsDisplay.qml</file>
+        <file>qml/fonts/TitilliumWeb-SemiBold.ttf</file>
+        <file>qml/fonts/TitilliumWeb-Regular.ttf</file>
+    </qresource>
+</RCC>

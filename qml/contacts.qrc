@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ContactsContainer.qml</file>
+        <file>ContactsContainerForm.ui.qml</file>
+        <file>icons/janedoe.png</file>
+        <file>icons/johndoe.png</file>
+        <file>icons/jimdoe.png</file>
+        <file>icons/lauradoe.png</file>
+        <file>icons/simonedoe.png</file>
+        <file>icons/timdoe.png</file>
+    </qresource>
+</RCC>

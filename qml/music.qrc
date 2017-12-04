@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MusicContainer.qml</file>
+        <file>MusicContainerForm.ui.qml</file>
+        <file>icons/album1.png</file>
+        <file>icons/album2.png</file>
+        <file>icons/album3.png</file>
+        <file>icons/album4.png</file>
+        <file>icons/album5.png</file>
+        <file>icons/album6.png</file>
+        <file>icons/musicBackground.png</file>
+        <file>icons/musicBackgroundBlue.png</file>
+        <file>icons/BlueHighlight.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/callIcon.png</file>
+        <file>icons/carIcon.png</file>
+        <file>icons/musicIcon.png</file>
+        <file>icons/navigationIcon.png</file>
+        <file>icons/settingsIcon.png</file>
+        <file>icons/RedHighlight.png</file>
+        <file>icons/selectionBox.png</file>
+    </qresource>
+</RCC>

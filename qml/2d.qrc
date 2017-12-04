@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>2D/Gauges.qml</file>
+        <file>2D/GaugesForm.ui.qml</file>
+        <file>2D/TachoNeedle.qml</file>
+        <file>2D/SpeedNeedle.qml</file>
+        <file>2D/CarContainer.qml</file>
+        <file>2D/ClusterGradient.qml</file>
+        <file>icons/2D/MenuBottomLineCrop.png</file>
+        <file>icons/2D/MenuTopLineCrop.png</file>
+        <file>icons/2D/CarOverview.jpg</file>
+        <file>2D/Navigation.qml</file>
+        <file>icons/2D/SpeedMeterBg.png</file>
+        <file>icons/2D/TachoMeterBg.png</file>
+        <file>icons/2D/NeedleBg.png</file>
+        <file>icons/2D/SpeedMeterBgBlue.png</file>
+        <file>icons/2D/TachoMeterBgBlue.png</file>
+        <file>icons/2D/CarOverview.png</file>
+        <file>icons/2D/CarOverviewBlue.png</file>
+        <file>icons/2D/MphSpeedMeterBg.png</file>
+        <file>icons/2D/MphSpeedMeterBgBlue.png</file>
+        <file>icons/Map.png</file>
+        <file>videos/car.avi</file>
+        <file>videos/carblue.avi</file>
+    </qresource>
+</RCC>

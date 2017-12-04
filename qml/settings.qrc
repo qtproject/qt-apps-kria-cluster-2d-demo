@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SettingsContainer.qml</file>
+        <file>SettingsContainerForm.ui.qml</file>
+        <file>listmodels/SettingsMainModel.qml</file>
+        <file>listmodels/SettingsDisplayModel.qml</file>
+        <file>listmodels/SettingsDriverAssistModel.qml</file>
+        <file>listmodels/SettingsLightningModel.qml</file>
+        <file>listmodels/SettingsChimesModel.qml</file>
+        <file>listmodels/SettingsConvenienceModel.qml</file>
+        <file>Help.qml</file>
+        <file>listmodels/DisplayColorModel.qml</file>
+        <file>listmodels/DisplayUnitsModel.qml</file>
+        <file>listmodels/DriverAssistESCModel.qml</file>
+        <file>listmodels/DriverAssistTrafficSignsModel.qml</file>
+        <file>listmodels/LightningAutoHighbeamModel.qml</file>
+        <file>listmodels/LightningHdlampModel.qml</file>
+        <file>listmodels/ConvenienceAuxModel.qml</file>
+        <file>listmodels/ConvenienceParkHeaterModel.qml</file>
+        <file>listmodels/OnOffModel.qml</file>
+        <file>listmodels/ChimesParkSlotModel.qml</file>
+        <file>listmodels/ChimesInformationModel.qml</file>
+        <file>listmodels/ChimesWarningModel.qml</file>
+        <file>icons/MenuBack.png</file>
+        <file>icons/MenuBackBlue.png</file>
+    </qresource>
+</RCC>
